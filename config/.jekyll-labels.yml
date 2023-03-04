@@ -34,4 +34,4 @@ c-status: this?.new?.eip && this?.old?.eip && this?.new?.status != this?.old?.st
 # EIP Author
 
 # EIP Editor
-e-number: isNaN(this?.new?.eip) && this?.new?.eip
+e-number: isNaN(this?
